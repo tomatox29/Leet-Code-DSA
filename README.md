@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0645-set-mismatch) |
 ## Sorting
