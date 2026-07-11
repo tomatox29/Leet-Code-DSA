@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1550-three-consecutive-odds](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1550-three-consecutive-odds) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1991-find-the-middle-index-in-array) |
