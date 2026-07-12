@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
