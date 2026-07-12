@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
