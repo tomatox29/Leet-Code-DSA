@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting Sort
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
