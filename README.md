@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1550-three-consecutive-odds) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1929-concatenation-of-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
