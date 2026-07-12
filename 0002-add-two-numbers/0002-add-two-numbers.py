@@ -1,32 +1,16 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
-# class Solution:
-#     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        # dummy = ListNode()
-        # current = dummy 
-        # carry = 0 
-        # while l1 or l2 or carry:
-        #     x = l1.val if l1 else 0 
-        #     y = l2.val if l2 else 0
+# Solution 1: Convert to Number (Python)
+# Logic:
+# * Traverse both linked lists.
+# * Store digits as strings.
+# * Reverse and convert to integers.
+# * Add the numbers.
+# * Reverse the sum.
+# * Create a new linked list from the digits.
+# Time: O(n + m)
+# Space: O(n + m)
 
-        #     total = x + y + carry 
-        #     digit = total % 10 
-        #     carry = total // 10 
-        #     current.next=ListNode(digit)
-        #     current = current.next
+# Note: Easy Python solution, but not the standard interview approach.
 
-        #     if l1 :
-        #         l1=l1.next
-        #     if l2:
-        #         l2= l2.next 
-
-        # return dummy.next
-        
-
-    #second approach converting both linked lists as a srting then reversing it and and then add and then reversing the total again to get the orginal form than add digit by digit of total in the linked list  
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
 
@@ -53,3 +37,38 @@ class Solution:
             current = current.next
 
         return dummy.next
+
+
+# Solution 2: Digit-by-Digit Addition
+# Logic:
+# * Traverse both linked lists together.
+# * Add corresponding digits and carry.
+# * Store sum % 10 in a new node.
+# * Update carry = sum // 10.
+# * Continue until both lists and carry are finished.
+# Time: O(n + m)
+# Space: O(max(n, m))
+# Note: Standard interview solution. Works in all languages.
+
+class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        dummy = ListNode()
+        current = dummy 
+        carry = 0 
+        while l1 or l2 or carry:
+            x = l1.val if l1 else 0 
+            y = l2.val if l2 else 0
+
+            total = x + y + carry 
+            digit = total % 10 
+            carry = total // 10 
+            current.next=ListNode(digit)
+            current = current.next
+
+            if l1 :
+                l1=l1.next
+            if l2:
+                l2= l2.next 
+
+        return dummy.next
+
