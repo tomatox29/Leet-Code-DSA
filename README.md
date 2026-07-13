@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0326-power-of-three) |
 ## Greedy
 |  |
