@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1550-three-consecutive-odds) |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1668-maximum-repeating-substring) |
+## Enumeration
+|  |
+| ------- |
+| [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
 <!---LeetCode Topics End-->
