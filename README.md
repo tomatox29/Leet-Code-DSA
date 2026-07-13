@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0566-reshape-the-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1929-concatenation-of-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0013-roman-to-integer) |
 | [0389-find-the-difference](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0412-fizz-buzz) |
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
 | [1668-maximum-repeating-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1668-maximum-repeating-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1903-largest-odd-number-in-string) |
