@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0013-roman-to-integer) |
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
 | [1668-maximum-repeating-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1668-maximum-repeating-substring) |
+| [1903-largest-odd-number-in-string](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tomatox29/Leet-Code-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
 |  |
