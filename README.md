@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/tomatox29/Leet-Code-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Math
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
 | [1668-maximum-repeating-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1668-maximum-repeating-substring) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/tomatox29/Leet-Code-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Prefix Sum
 |  |
 | ------- |
