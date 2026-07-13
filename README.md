@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0013-roman-to-integer) |
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
+| [1668-maximum-repeating-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1668-maximum-repeating-substring) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Prefix Sum
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1668-maximum-repeating-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1668-maximum-repeating-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
