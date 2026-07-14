@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0283-move-zeroes) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0412-fizz-buzz) |
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1668-maximum-repeating-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1668-maximum-repeating-substring) |
 ## Enumeration
 |  |
