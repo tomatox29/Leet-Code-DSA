@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1550-three-consecutive-odds) |
 | [1566-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1566-detect-pattern-of-length-m-repeated-k-or-more-times) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0566-reshape-the-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0636-exclusive-time-of-functions) |
+| [1441-build-an-array-with-stack-operations](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
