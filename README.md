@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0636-exclusive-time-of-functions](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0636-exclusive-time-of-functions) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Two Pointers
 |  |
