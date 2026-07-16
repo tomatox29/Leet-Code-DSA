@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tomatox29/Leet-Code-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,4 +230,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
