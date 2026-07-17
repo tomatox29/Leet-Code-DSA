@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
+|  |s
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0033-search-in-rotated-sorted-array) |
