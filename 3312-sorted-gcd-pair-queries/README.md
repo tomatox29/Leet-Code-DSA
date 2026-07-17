@@ -1,60 +1,116 @@
-<h2><a href="https://leetcode.com/problems/sorted-gcd-pair-queries">3583. Sorted GCD Pair Queries</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code> and an integer array <code>queries</code>.</p>
+# GCD Values of Pairs
 
-<p>Let <code>gcdPairs</code> denote an array obtained by calculating the <span data-keyword="gcd-function">GCD</span> of all possible pairs <code>(nums[i], nums[j])</code>, where <code>0 &lt;= i &lt; j &lt; n</code>, and then sorting these values in <strong>ascending</strong> order.</p>
+## 📌 Approach
 
-<p>For each query <code>queries[i]</code>, you need to find the element at index <code>queries[i]</code> in <code>gcdPairs</code>.</p>
+At first glance, generating the GCD for every possible pair seems straightforward. However, with `n` up to `10^5`, the total number of pairs becomes **O(n²)**, which is far too slow.
 
-<p>Return an integer array <code>answer</code>, where <code>answer[i]</code> is the value at <code>gcdPairs[queries[i]]</code> for each query.</p>
+The key observation is that **the maximum possible GCD is limited by the maximum value in `nums`**, not by the number of pairs. Instead of iterating over every pair, we count how many pairs can have each possible GCD.
 
-<p>The term <code>gcd(a, b)</code> denotes the <strong>greatest common divisor</strong> of <code>a</code> and <code>b</code>.</p>
+## Step 1: Frequency Array
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+Create a frequency array `cnt`, where:
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">nums = [2,3,4], queries = [0,2,2]</span></p>
+```text
+cnt[x] = number of occurrences of x in nums
+```
 
-<p><strong>Output:</strong> <span class="example-io">[1,2,2]</span></p>
+This allows us to quickly determine how many numbers are divisible by any integer.
 
-<p><strong>Explanation:</strong></p>
+---
 
-<p><code>gcdPairs = [gcd(nums[0], nums[1]), gcd(nums[0], nums[2]), gcd(nums[1], nums[2])] = [1, 2, 1]</code>.</p>
+## Step 2: Count Numbers Divisible by Each Value
 
-<p>After sorting in ascending order, <code>gcdPairs = [1, 1, 2]</code>.</p>
+For every possible GCD `i`, iterate through all of its multiples:
 
-<p>So, the answer is <code>[gcdPairs[queries[0]], gcdPairs[queries[1]], gcdPairs[queries[2]]] = [1, 2, 2]</code>.</p>
-</div>
+```python
+for j in range(i, m + 1, i):
+```
 
-<p><strong class="example">Example 2:</strong></p>
+This counts how many numbers are divisible by `i`.
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">nums = [4,4,2,1], queries = [5,3,1,0]</span></p>
+If `div` numbers are divisible by `i`, then the number of possible pairs is:
 
-<p><strong>Output:</strong> <span class="example-io">[4,2,1,1]</span></p>
+```text
+div × (div - 1) / 2
+```
 
-<p><strong>Explanation:</strong></p>
+However, this counts pairs whose GCD is **at least** `i`, not **exactly** `i`.
 
-<p><code>gcdPairs</code> sorted in ascending order is <code>[1, 1, 1, 2, 2, 4]</code>.</p>
-</div>
+---
 
-<p><strong class="example">Example 3:</strong></p>
+## Step 3: Inclusion-Exclusion
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">nums = [2,2], queries = [0,0]</span></p>
+Some of the pairs counted for `i` actually have GCD equal to `2i`, `3i`, `4i`, and so on.
 
-<p><strong>Output:</strong> <span class="example-io">[2,2]</span></p>
+To obtain the number of pairs whose GCD is **exactly** `i`, subtract the counts of all multiples of `i`.
 
-<p><strong>Explanation:</strong></p>
+```python
+for k in range(i * 2, m + 1, i):
+    gcdCount[i] -= gcdCount[k]
+```
 
-<p><code>gcdPairs = [2]</code>.</p>
-</div>
+This works because we process values from **largest to smallest**, ensuring that all larger GCD counts have already been computed.
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+---
 
-<ul>
-	<li><code>2 &lt;= n == nums.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;= nums[i] &lt;= 5 * 10<sup>4</sup></code></li>
-	<li><code>1 &lt;= queries.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>0 &lt;= queries[i] &lt; n * (n - 1) / 2</code></li>
-</ul>
+## Step 4: Prefix Sum
+
+After inclusion-exclusion,
+
+```text
+gcdCount[i]
+```
+
+stores the number of pairs whose GCD is **exactly** `i`.
+
+Convert this into a prefix sum so that:
+
+```text
+gcdCount[i]
+```
+
+represents the number of pairs whose GCD is **less than or equal to** `i`.
+
+---
+
+## Step 5: Answer Queries
+
+The problem asks for the GCD at specific indices in the sorted `gcdPairs` array.
+
+Instead of constructing the entire array, perform a binary search on the prefix sum.
+
+The first position where
+
+```text
+prefix >= query + 1
+```
+
+gives the required GCD value.
+
+---
+
+# ⏱️ Complexity Analysis
+
+- **Time Complexity:** `O(m log m + q log m)`
+- **Space Complexity:** `O(m)`
+
+---
+
+# 💡 Key Learnings
+
+- Frequency Array
+- Counting Multiples
+- Combination Formula (`n(n-1)/2`)
+- Inclusion-Exclusion Principle
+- Prefix Sum
+- Binary Search
+
+Instead of generating every pair, the solution counts how many pairs belong to each possible GCD value, making it efficient even for large inputs.
+
+---
+
+## ⭐ Personal Note
+
+This was one of the hardest problems I've worked on. I didn't fully understand it on the first try, but by breaking the solution into small steps—frequency counting, counting multiples, inclusion-exclusion, prefix sums, and binary search—I gradually understood the reasoning behind the algorithm.
+
+My goal isn't just to solve Hard problems, but to understand the patterns so I can recognize and apply them in future problems.
