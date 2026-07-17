@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tomatox29/Leet-Code-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -185,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1991-find-the-middle-index-in-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -231,6 +237,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
