@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0875-koko-eating-bananas) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
