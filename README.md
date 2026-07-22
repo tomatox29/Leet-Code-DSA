@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0875-koko-eating-bananas) |
 | [1260-shift-2d-grid](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Math
 |  |
 | ------- |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/tomatox29/Leet-Code-DSA/tree/master/0875-koko-eating-bananas) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tomatox29/Leet-Code-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/tomatox29/Leet-Code-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
