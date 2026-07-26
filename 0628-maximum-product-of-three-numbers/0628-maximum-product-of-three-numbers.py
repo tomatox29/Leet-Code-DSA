@@ -23,21 +23,7 @@ class Solution:
         return max(max1*max2*max3,max1*min1*min2)
 
 
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        #using sorting
         nums.sort()
         return max(
             nums[-1] * nums[-2] * nums[-3],
