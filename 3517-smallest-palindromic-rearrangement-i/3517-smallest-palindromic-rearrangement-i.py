@@ -1,6 +1,12 @@
 from collections import Counter
 class Solution:
     def smallestPalindrome(self, s: str) -> str:
+        counts=sorted(Counter(s).items())
+        left="".join(ch*(count//2)for ch,count in counts)
+        mid="".join(ch*(count%2)for ch, count in counts)
+        right=left[::-1]
+        return "".join(left+mid+right)
+
         freq={}
         freq=Counter(s)
         left =[]
