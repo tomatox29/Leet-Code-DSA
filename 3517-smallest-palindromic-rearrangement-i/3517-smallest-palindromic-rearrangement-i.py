@@ -7,6 +7,7 @@ class Solution:
         right=left[::-1]
         return "".join(left+mid+right)
 
+#same method but beginner level syntax
         freq={}
         freq=Counter(s)
         left =[]
