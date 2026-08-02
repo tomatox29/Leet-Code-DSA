@@ -1,7 +1,7 @@
 class Solution:
     def stoneGame(self, piles: List[int]) -> bool:
         return True 
-        
+
         #two pointer 
         a=0
         b=0
@@ -20,18 +20,23 @@ class Solution:
                 b+=chosen 
         return a>b 
 
-       #second method (not good may caused index error)
-        a=0
-        b=0
-        for i, pile in enumerate(piles):
-            if piles[i]<piles[-1]:
-                a+=piles[-1]
-                b+=piles[i]
-                piles.pop(-1)
+       #second method
+class Solution:
+    def stoneGame(self, piles: List[int]) -> bool:
+        a = 0
+        b = 0
+        while piles:
+            if piles[0] < piles[-1]:
+                chosen = piles.pop(-1)  
             else:
-                a+=piles[i]
-                piles.pop(i)
-        return a>b
+                chosen = piles.pop(0) 
+                
+            if True:
+                a += chosen
+            else:
+                b += chosen
             
+        return a > b
+
             
         
