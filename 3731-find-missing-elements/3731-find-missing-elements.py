@@ -1,10 +1,10 @@
 class Solution:
     def findMissingElements(self, nums: List[int]) -> List[int]:
-        nums.sort()
-        ans=[]
-        numbers=list(range(min(nums),max(nums)))
-        result = [num for num in numbers if num not in nums]
-        return result 
+        start=min(nums)
+        end=max(nums)
+        set_nums=set(nums)
+        return [x for x in range(start, end + 1) if x not in set_nums]
+
 
 
         
